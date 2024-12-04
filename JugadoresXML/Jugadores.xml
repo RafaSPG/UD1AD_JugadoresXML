@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jugadores>
+    <jugador id = "1">
+        <nombre>Juan Pérez</nombre>
+        <equipo>Real Madrid</equipo>
+        <ano>2024</ano>
+        <posicion>Delantero</posicion>
+    </jugador>
+    <jugador id = "2">
+        <nombre>Carlos Martínez</nombre>
+        <equipo>Barcelona</equipo>
+        <ano>2024</ano>
+        <posicion>Defensa</posicion>
+    </jugador>
+    <jugador id = "3">
+        <nombre>Andrés López</nombre>
+        <equipo>Atlético de Madrid</equipo>
+        <ano>2024</ano>
+        <posicion>Mediocampista</posicion>
+    </jugador>
+    <jugador id = "4">
+        <nombre>Pedro González</nombre>
+        <equipo>Sevilla</equipo>
+        <ano>2024</ano>
+        <posicion>Portero</posicion>
+    </jugador>
+    <jugador id = "5">
+        <nombre>David Fernández</nombre>
+        <equipo>Valencia</equipo>
+        <ano>2024</ano>
+        <posicion>Delantero</posicion>
+    </jugador>
+</jugadores>
